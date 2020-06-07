@@ -1,14 +1,14 @@
-# OpenCore 2570p
+# OpenCore HP 2570p
 <img src="https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Logos/OpenCore_with_text_Small.png" width="200" height="48"/>
  
- ##EFI Folder for Elitebook 2570p
+ #EFI Folder for Elitebook 2570p
 
-- Elitebook 2570p
+- HP Elitebook 2570p
 - Intel i5 3320M
 - Broadcom 43224 WIFI
 
 - All working.
-- HD4000.
+- Intel HD4000.
 - Battery Indicator.
 - Bluetooth.
 - Network.
