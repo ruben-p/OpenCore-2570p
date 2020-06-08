@@ -5,9 +5,10 @@
 
 - HP Elitebook 2570p
 - Intel i5 3320M
+- SMBIOS MacBook9.2 *Change your serial with OpenCore
 - Broadcom 43224 WIFI
 
-- All working.
+- All working.*
 - Intel HD4000.
 - Battery Indicator.
 - Bluetooth.
@@ -18,3 +19,5 @@
 - Set powermanagement for this CPU with SSDT and CPUFriend.kext.
 - Chime Boot and sounds.
 - GUI icons opencore 0.59.
+
+- * 1 issue: Webcam loss on wake, USBs working
