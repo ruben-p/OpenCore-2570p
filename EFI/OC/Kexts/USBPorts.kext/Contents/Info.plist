@@ -47,21 +47,17 @@
 				<key>kUSBWakePowerSupply</key>
 				<integer>5100</integer>
 				<key>port-count</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>ports</key>
 				<dict>
-					<key>PR11</key>
+					<key>PRT0</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
-						<string>PR11</string>
+						<string>PRT0</string>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
@@ -81,9 +77,7 @@
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>port-count</key>
-				<data>
-				BgAAAA==
-				</data>
+				<data>BgAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>HP16</key>
@@ -91,11 +85,9 @@
 						<key>name</key>
 						<string>HP16</string>
 						<key>port</key>
-						<data>
-						BgAAAA==
-						</data>
+						<data>BgAAAA==</data>
 						<key>portType</key>
-						<integer>255</integer>
+						<integer>2</integer>
 					</dict>
 				</dict>
 			</dict>
@@ -129,21 +121,17 @@
 				<key>kUSBWakePowerSupply</key>
 				<integer>5100</integer>
 				<key>port-count</key>
-				<data>
-				AQAAAA==
-				</data>
+				<data>AQAAAA==</data>
 				<key>ports</key>
 				<dict>
-					<key>PR21</key>
+					<key>PRT0</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>255</integer>
 						<key>name</key>
-						<string>PR21</string>
+						<string>PRT0</string>
 						<key>port</key>
-						<data>
-						AQAAAA==
-						</data>
+						<data>AQAAAA==</data>
 					</dict>
 				</dict>
 			</dict>
@@ -163,9 +151,7 @@
 			<key>IOProviderMergeProperties</key>
 			<dict>
 				<key>port-count</key>
-				<data>
-				AwAAAA==
-				</data>
+				<data>AwAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>HP22</key>
@@ -173,22 +159,18 @@
 						<key>name</key>
 						<string>HP22</string>
 						<key>port</key>
-						<data>
-						AgAAAA==
-						</data>
+						<data>AgAAAA==</data>
 						<key>portType</key>
-						<integer>3</integer>
+						<integer>0</integer>
 					</dict>
 					<key>HP23</key>
 					<dict>
 						<key>name</key>
 						<string>HP23</string>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
 						<key>portType</key>
-						<integer>255</integer>
+						<integer>2</integer>
 					</dict>
 				</dict>
 			</dict>
@@ -222,9 +204,7 @@
 				<key>kUSBWakePowerSupply</key>
 				<integer>5100</integer>
 				<key>port-count</key>
-				<data>
-				CAAAAA==
-				</data>
+				<data>CAAAAA==</data>
 				<key>ports</key>
 				<dict>
 					<key>HS03</key>
@@ -234,9 +214,7 @@
 						<key>name</key>
 						<string>HS03</string>
 						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
+						<data>AwAAAA==</data>
 					</dict>
 					<key>HS04</key>
 					<dict>
@@ -245,31 +223,25 @@
 						<key>name</key>
 						<string>HS04</string>
 						<key>port</key>
-						<data>
-						BAAAAA==
-						</data>
+						<data>BAAAAA==</data>
 					</dict>
-					<key>SS07</key>
+					<key>SS03</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>SS07</string>
+						<string>SS03</string>
 						<key>port</key>
-						<data>
-						BwAAAA==
-						</data>
+						<data>BwAAAA==</data>
 					</dict>
-					<key>SS08</key>
+					<key>SS04</key>
 					<dict>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>name</key>
-						<string>SS08</string>
+						<string>SS04</string>
 						<key>port</key>
-						<data>
-						CAAAAA==
-						</data>
+						<data>CAAAAA==</data>
 					</dict>
 				</dict>
 			</dict>

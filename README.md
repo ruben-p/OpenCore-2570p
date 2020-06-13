@@ -16,8 +16,10 @@
 - Wifi.
 - Sound.
 
-- Set powermanagement for this CPU with SSDT and CPUFriend.kext.
-- Chime Boot and sounds.
+- Set powermanagement for this CPU with CPUFriend.kext.
+- Chime Boot and sounds. *sounds disabled (PickerAudioAssist)
 - GUI icons opencore 0.59.
+- Boot Windows & Mac
+- Function keys Fn+key
 
 - * 1 issue: Webcam loss on wake, USBs working
