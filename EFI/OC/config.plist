@@ -861,17 +861,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02231501GUF16PAD</string>
+			<string>C02642701GUF1YJ1H</string>
 			<key>ROM</key>
 			<data>CvyhlejQ</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro10,2</string>
+			<string>MacBookPro9,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02J503HDR53</string>
+			<string>C02SKJZLDTY3</string>
 			<key>SystemUUID</key>
-			<string>27660464-78A4-4AE6-B519-354C00EBF53B</string>
+			<string>59E8D447-2B09-4412-A588-3A9E608FCBCA</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>

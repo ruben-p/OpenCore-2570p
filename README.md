@@ -5,8 +5,12 @@
 
 - HP Elitebook 2570p
 - Intel i5 3320M
-- SMBIOS MacBook10.2 *Change your serial with OpenCore Configurator or Plist/Text Editor
+- SMBIOS MacBook9.2 *Change your serial with OpenCore Configurator or Plist/Text Editor
 - Broadcom WIFI
+
+#BIOS:
+- UEFI (CSM Disabled)
+- Fastboot Disable
 
 - All working.*
 - Intel HD4000.
