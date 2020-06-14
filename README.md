@@ -12,6 +12,7 @@
 - UEFI (CSM Disabled)
 - Fastboot Disable
 
+#STATS
 - All working.*
 - Intel HD4000.
 - Battery Indicator.
@@ -24,6 +25,6 @@
 - Chime Boot and sounds. *sounds disabled (PickerAudioAssist)
 - GUI icons opencore 0.59.
 - Boot Windows & Mac
-- Function keys Fn+key
+- Function keys Fn+key (Volume, Brightnes...)
 
 - * 1 issue: Webcam loss on wake, USBs working
