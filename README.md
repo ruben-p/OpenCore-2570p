@@ -8,6 +8,12 @@
 - SMBIOS MacBook9.2 *Change your serial with OpenCore Configurator or Plist/Text Editor
 - Broadcom WIFI
 
+#Custom Logo
+- Mount EFI Partition
+- Rename partition to HP_TOOLS
+- Copy /Hewlett-Packard Foler
+- Reboot and enable in Bios custom logo.
+
 #BIOS:
 - UEFI (CSM Disabled)
 - Fastboot Disable
@@ -20,6 +26,7 @@
 - Network.
 - Wifi.
 - Sound.
+- SD CardReader *Install HSSDBlockStorage.kext & JMB38X.kext to /L/E/
 
 - Set powermanagement for this CPU with CPUFriend.kext.
 - Chime Boot and sounds. *sounds disabled (PickerAudioAssist)
