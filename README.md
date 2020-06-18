@@ -11,7 +11,7 @@
 #Custom Logo
 - Mount EFI Partition
 - Rename partition to HP_TOOLS
-- Copy /Hewlett-Packard Foler
+- Copy /Hewlett-Packard Folder
 - Reboot and enable in Bios custom logo.
 
 #BIOS:
@@ -33,5 +33,3 @@
 - GUI icons opencore 0.59.
 - Boot Windows & Mac
 - Function keys Fn+key (Volume, Brightnes...)
-
-- * 1 issue: Webcam loss on wake, USBs working
