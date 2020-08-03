@@ -768,50 +768,7 @@
 			<string>Optional</string>
 		</dict>
 		<key>Tools</key>
-		<array>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<false/>
-				<key>Comment</key>
-				<string>Not signed for security reasons</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Name</key>
-				<string>UEFI Shell</string>
-				<key>Path</key>
-				<string>OpenShell.efi</string>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string></string>
-				<key>Auxiliary</key>
-				<false/>
-				<key>Comment</key>
-				<string>Memory testing utility</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Name</key>
-				<string>memcheck</string>
-				<key>Path</key>
-				<string>memcheck/memcheck.efi</string>
-			</dict>
-			<dict>
-				<key>Arguments</key>
-				<string>Shutdown</string>
-				<key>Auxiliary</key>
-				<true/>
-				<key>Comment</key>
-				<string>Perform shutdown</string>
-				<key>Enabled</key>
-				<false/>
-				<key>Name</key>
-				<string>Shutdown</string>
-				<key>Path</key>
-				<string>ResetSystem.efi</string>
-			</dict>
-		</array>
+		<array/>
 	</dict>
 	<key>NVRAM</key>
 	<dict>
@@ -885,17 +842,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02353802J9F1YJ8C</string>
+			<string>C02223404GUF16P8C</string>
 			<key>ROM</key>
 			<data>CvyhlejQ</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>MacBookPro9,2</string>
+			<string>MacBookPro10,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02M16YSDTY3</string>
+			<string>C02HT5ZEDR53</string>
 			<key>SystemUUID</key>
-			<string>EDD226B0-2068-4818-962F-4282F6A3CE3E</string>
+			<string>11ECF269-9863-446D-88CA-B383BA30EB55</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -942,11 +899,9 @@
 		<true/>
 		<key>Drivers</key>
 		<array>
-			<string>HiiDatabase.efi</string>
-			<string>AudioDxe.efi</string>
 			<string>ApfsDriverLoader.efi</string>
+			<string>AudioDxe.efi</string>
 			<string>HfsPlus.efi</string>
-			<string>NvmExpressDxe.efi</string>
 			<string>OpenCanopy.efi</string>
 			<string>OpenRuntime.efi</string>
 		</array>
