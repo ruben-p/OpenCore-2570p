@@ -34,3 +34,5 @@
 - GUI icons opencore
 - Boot Windows & Mac
 - Function keys Fn+key (Volume, Brightnes...)
+
+<a href="https://imgur.com/fvAgXUG"><img src="https://i.imgur.com/fvAgXUG.png" title="source: imgur.com" width="600"/></a>
