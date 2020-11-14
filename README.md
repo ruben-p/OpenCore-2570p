@@ -4,6 +4,8 @@
  
  #EFI Folder for Elitebook 2570p
 
+-For install media Big Sur you only need: https://github.com/ruben-p/OpenCore-2570p/releases
+
 - HP Elitebook 2570p
 - Intel i5 3320M
 - SMBIOS MacBook11.1 *Big Sur compatibility *Change your serial with OpenCore Configurator or Plist/Text Editor
