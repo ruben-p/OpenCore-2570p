@@ -15,6 +15,13 @@
 - Copy /Hewlett-Packard Folder
 - Reboot and enable in Bios custom logo.
 
+#HiDPI Big Sur
+- https://github.com/mlch911/one-key-hidpi
+- Download zip
+- extract & run hidì.command. 1 Enable, 3 MacBookPro icon
+- 6 Manual: 1920x1080 1600x900 1366x768
+- reboot & select new resolution 1600x900
+
 #BIOS:
 - UEFI (CSM Disabled)
 - Fastboot Disable
