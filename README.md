@@ -36,12 +36,19 @@
 - Network.
 - Wifi.
 - Sound.
-- SD CardReader *Install HSSDBlockStorage.kext & JMB38X.kext to /L/E/
-
 - Set powermanagement for this CPU with CPUFriend.kext.
 - Chime Boot and sounds. *sounds disabled (PickerAudioAssist)
 - GUI icons opencore
 - Boot Windows & Mac
 - Function keys Fn+key (Volume, Brightnes...)
+
+
+# SD CardReader *Install HSSDBlockStorage.kext & JMB38X.kext to /L/E/
+ - Reboot recovery
+ - Open Terminal. 
+ - csrutil disable
+ - Reboot to the SSD then Install [Kext☞ HSSDBlockStorage.kext, JMB38X.kext](https://drive.google.com/file/d/1nBwUaRkyXYLlJBbbEBP0DPxODYif9k1X/view?usp=sharing) with ☞ [Kext-Droplet-Big Sur](https://github.com/chris1111/Kext-Droplet-Big-Sur)
+- Before reboot, you have to allow JMicron on Security allow software - Before reboot, you have to allow JMicron on Security allow software
+
 
 <a href="https://imgur.com/fvAgXUG"><img src="https://i.imgur.com/fvAgXUG.png" title="source: imgur.com" width="600"/></a>
